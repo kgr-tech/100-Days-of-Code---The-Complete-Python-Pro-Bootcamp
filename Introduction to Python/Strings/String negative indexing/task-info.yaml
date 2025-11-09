@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: negative_indexing.py
+    visible: true
+    placeholders:
+      - offset: 58
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 58
+        initialized_from_dependency: false
+        encrypted_possible_answer: UU9vTrzUo+a6ydkWcsJ9dA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

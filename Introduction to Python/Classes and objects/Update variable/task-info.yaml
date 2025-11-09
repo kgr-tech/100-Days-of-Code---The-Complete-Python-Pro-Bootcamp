@@ -1,0 +1,32 @@
+type: edu
+custom_name: Update variable
+files:
+  - name: update_variable.py
+    visible: true
+    placeholders:
+      - offset: 212
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 212
+        initialized_from_dependency: false
+        encrypted_possible_answer: IsNVGe1Yg8mDRMZK7T9DpQ==
+        selected: false
+        status: Unchecked
+      - offset: 250
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 250
+        initialized_from_dependency: false
+        encrypted_possible_answer: jCBKeqMOzL5KiCsrBDlPIA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

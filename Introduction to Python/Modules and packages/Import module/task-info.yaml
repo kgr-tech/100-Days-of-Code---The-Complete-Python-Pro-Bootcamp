@@ -1,0 +1,37 @@
+type: edu
+files:
+  - name: my_module.py
+    visible: true
+    learner_created: false
+  - name: imports.py
+    visible: true
+    placeholders:
+      - offset: 18
+        length: 24
+        placeholder_text: "# Import the module here"
+        initial_state:
+          length: 24
+          offset: 18
+        initialized_from_dependency: false
+        encrypted_possible_answer: /tnNqyOY2aLELEafKTNcXnKGVzVbGc1nl3bn2MZzYI8=
+        selected: false
+        status: Unchecked
+      - offset: 186
+        length: 50
+        placeholder_text: "# Call the function `hello_world` from `my_module`"
+        initial_state:
+          length: 50
+          offset: 186
+        initialized_from_dependency: false
+        encrypted_possible_answer: tHN4D8HtI/wTr7p3GNRySMzSnTc1El7TUmiRFkcx2qY=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: calculator.py
+    visible: true
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

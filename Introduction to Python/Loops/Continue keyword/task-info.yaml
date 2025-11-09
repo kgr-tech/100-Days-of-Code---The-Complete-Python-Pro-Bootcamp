@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: continue_keyword.py
+    visible: true
+    placeholders:
+      - offset: 154
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 154
+        initialized_from_dependency: false
+        encrypted_possible_answer: d2ih44crVGX5EaTu/WckDw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

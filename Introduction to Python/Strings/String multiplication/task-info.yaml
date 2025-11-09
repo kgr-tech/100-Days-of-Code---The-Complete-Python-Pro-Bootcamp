@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: string_multiplication.py
+    visible: true
+    placeholders:
+      - offset: 38
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 38
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3TblBYt8EBXY2WxXudFziA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

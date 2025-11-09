@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: string_methods.py
+    visible: true
+    placeholders:
+      - offset: 131
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 131
+        initialized_from_dependency: false
+        encrypted_possible_answer: dhmgeFK4lWK0pYLoM7Y5rhpy5xq/+c6G7pknnWQ70EQ=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

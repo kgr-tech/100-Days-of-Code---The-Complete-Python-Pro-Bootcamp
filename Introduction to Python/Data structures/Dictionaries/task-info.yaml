@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: dicts.py
+    visible: true
+    placeholders:
+      - offset: 323
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 323
+        initialized_from_dependency: false
+        encrypted_possible_answer: xbtk/88SKjUBTI5/N3MAoilbRXl2EK61C444T4o+haU=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

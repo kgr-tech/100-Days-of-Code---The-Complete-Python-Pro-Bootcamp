@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: boolean_operators.py
+    visible: true
+    placeholders:
+      - offset: 132
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 132
+        initialized_from_dependency: false
+        encrypted_possible_answer: QMCIFWnGhaMi5Zxr0x+Fq61/R9Q7+w+OCk7tlY4SbV4=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

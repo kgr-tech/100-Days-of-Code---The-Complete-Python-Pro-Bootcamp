@@ -1,0 +1,41 @@
+type: edu
+files:
+  - name: args_kwargs.py
+    visible: true
+    placeholders:
+      - offset: 1111
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 1111
+        initialized_from_dependency: false
+        encrypted_possible_answer: dsNfG92Cy0yUcAqDmAZPMcwPrSzgxgiquDbPFpKOuQuKTAGKYlay6WQ1PWTfCzXkJyJ6EoDYVSYxjczzX8xK/Q==
+        selected: false
+        status: Unchecked
+      - offset: 1161
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 1161
+        initialized_from_dependency: false
+        encrypted_possible_answer: rJDEopCZXWyUGtiU38SAh6DtsnSTnCxq2zdI1rBVp5fGj6bxgIhSRIOwqUA1wFAGUJnDpIZoQnbOkuRKcBrYPA==
+        selected: false
+        status: Unchecked
+      - offset: 1243
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 1243
+        initialized_from_dependency: false
+        encrypted_possible_answer: trcTmmm0N9AuZ2JGsxbDmSft/tpWqkxlWrG5ubEdsX7qfAh3JNGqiqWLx0t3P5LE
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,31 @@
+type: edu
+files:
+  - name: str_and_repr.py
+    visible: true
+    placeholders:
+      - offset: 438
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 438
+        initialized_from_dependency: false
+        encrypted_possible_answer: cijuVeBcw0jsBWH1pcYfKvrRwDf9hR95EfLpLXhaw9HC86xVhV6WyEQjcxj+ogH6
+        selected: false
+        status: Unchecked
+      - offset: 481
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 481
+        initialized_from_dependency: false
+        encrypted_possible_answer: jYTuRJ60f0fB+p6FLr+Vo5evzopOtdNceEBhyYZ/wPaF3XhH+5tTO/ImB8xXT39f
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

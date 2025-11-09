@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: in_operator.py
+    visible: true
+    placeholders:
+      - offset: 99
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 99
+        initialized_from_dependency: false
+        encrypted_possible_answer: FNuVCRptYn81AjnxHze5UK28ZVLlx+mFToxo9fvg8gY=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

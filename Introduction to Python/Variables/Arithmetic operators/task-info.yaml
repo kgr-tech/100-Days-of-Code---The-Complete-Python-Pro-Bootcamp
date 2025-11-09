@@ -1,0 +1,31 @@
+type: edu
+files:
+  - name: arithmetic_operators.py
+    visible: true
+    placeholders:
+      - offset: 45
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 45
+        initialized_from_dependency: false
+        encrypted_possible_answer: lGQxpA1+z52GAwFJDQSO/A==
+        selected: false
+        status: Unchecked
+      - offset: 62
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 62
+        initialized_from_dependency: false
+        encrypted_possible_answer: +e4pv0YAe10VViDxo4Fm6w==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

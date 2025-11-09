@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: for_string.py
+    visible: true
+    placeholders:
+      - offset: 158
+        length: 26
+        placeholder_text: "# Iterate over the string."
+        initial_state:
+          length: 26
+          offset: 158
+        initialized_from_dependency: false
+        encrypted_possible_answer: cPdfKNj7GtNVLVxlCB4vgl5oH1+Kq1JTTuEFI3ZmDRg=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

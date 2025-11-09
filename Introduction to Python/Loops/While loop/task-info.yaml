@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: while_loop.py
+    visible: true
+    placeholders:
+      - offset: 302
+        length: 45
+        placeholder_text: "# Use a while statement and a condition here."
+        initial_state:
+          length: 45
+          offset: 302
+        initialized_from_dependency: false
+        encrypted_possible_answer: k2NRSYIPL/X4VUW73Of2i/0ZJeuLMJMjgRE4GibuJkk=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

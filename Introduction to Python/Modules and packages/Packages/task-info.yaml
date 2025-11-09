@@ -1,0 +1,42 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 95
+        length: 40
+        placeholder_text: "# Import the official module as official"
+        initial_state:
+          length: 40
+          offset: 95
+        initialized_from_dependency: false
+        encrypted_possible_answer: BdfI5n9eNpE/PpMVcNRX34G0359qrjPEpkdEElk1j0AnApYq/agY5umcZ79HEK32
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+  - name: functions/greeting/hello.py
+    visible: true
+    learner_created: false
+  - name: functions/goodbye.py
+    visible: true
+    learner_created: false
+  - name: classes/calculator.py
+    visible: true
+    learner_created: false
+  - name: classes/__init__.py
+    visible: true
+    learner_created: false
+  - name: functions/__init__.py
+    visible: true
+    learner_created: false
+  - name: functions/greeting/__init__.py
+    visible: true
+    learner_created: false
+  - name: functions/greeting/official.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

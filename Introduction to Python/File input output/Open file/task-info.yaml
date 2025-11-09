@@ -1,0 +1,37 @@
+type: edu
+files:
+  - name: input.txt
+    visible: true
+    learner_created: false
+  - name: input1.txt
+    visible: true
+    learner_created: false
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 152
+        length: 64
+        placeholder_text: "# Open the file input1.txt in read mode using the with statement"
+        initial_state:
+          length: 64
+          offset: 152
+        initialized_from_dependency: false
+        encrypted_possible_answer: ClONeCJ89xM+YLBHqI0uT1f8HqjRdiTgfJ5kbVb6uEkePVfxQgPcZ4zVQDjbR9AC
+        selected: false
+        status: Unchecked
+      - offset: 423
+        length: 24
+        placeholder_text: "# Close the output file!"
+        initial_state:
+          length: 24
+          offset: 423
+        initialized_from_dependency: false
+        encrypted_possible_answer: GLfjqX8FAMv5bbIEND3/XA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

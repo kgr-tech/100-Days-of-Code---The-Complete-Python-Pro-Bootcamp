@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: init_method.py
+    visible: true
+    placeholders:
+      - offset: 158
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 158
+        initialized_from_dependency: false
+        encrypted_possible_answer: fRnzOmL6+X/hft3WaQJC9kfhbxizNYI63Ijp2a6xS0s=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

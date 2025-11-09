@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: functions.py
+    visible: true
+    placeholders:
+      - offset: 257
+        length: 60
+        placeholder_text: "# Define a function named \"fun\" to replace three lines above"
+        initial_state:
+          length: 60
+          offset: 257
+        initialized_from_dependency: false
+        encrypted_possible_answer: Sq6e3XwEUlSArfQofqPQdg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,31 @@
+type: edu
+files:
+  - name: else_elif.py
+    visible: true
+    placeholders:
+      - offset: 351
+        length: 29
+        placeholder_text: check if name equal to "John"
+        initial_state:
+          length: 29
+          offset: 351
+        initialized_from_dependency: false
+        encrypted_possible_answer: YXWeHMShtP6NRYqEh0LNO8VV38RIZiZihC2BpcnS3Kk=
+        selected: false
+        status: Unchecked
+      - offset: 397
+        length: 9
+        placeholder_text: otherwise
+        initial_state:
+          length: 9
+          offset: 397
+        initialized_from_dependency: false
+        encrypted_possible_answer: /fMLg4I+Zcr3UpgWVHe2HA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

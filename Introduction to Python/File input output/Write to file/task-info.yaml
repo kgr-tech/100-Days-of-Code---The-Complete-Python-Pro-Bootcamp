@@ -1,0 +1,45 @@
+type: edu
+files:
+  - name: output.txt
+    visible: true
+    learner_created: false
+  - name: write_to_file.py
+    visible: true
+    placeholders:
+      - offset: 74
+        length: 12
+        placeholder_text: add modifier
+        initial_state:
+          length: 12
+          offset: 74
+        initialized_from_dependency: false
+        encrypted_possible_answer: uBwPgdmXCSa+XJi5v3PN1A==
+        selected: false
+        status: Unchecked
+      - offset: 98
+        length: 87
+        placeholder_text: "# On a new line in  \"output.txt\", add all elements from the\
+      \ zoo list, joined by \" and \""
+        initial_state:
+          length: 87
+          offset: 98
+        initialized_from_dependency: false
+        encrypted_possible_answer: OLzakA8QjOP1EWk0vEogGlWGwV+nhlha4jUWFJQv84uv12t5XCCaevGVQN+HuR3A
+        selected: false
+        status: Unchecked
+      - offset: 190
+        length: 38
+        placeholder_text: "# Add the number to the output as well"
+        initial_state:
+          length: 38
+          offset: 190
+        initialized_from_dependency: false
+        encrypted_possible_answer: 5cFKv2KKBLK+gKgQkdZiIRMyhPgA7wlilxddQl95UL8=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: lists.py
+    visible: true
+    placeholders:
+      - offset: 70
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 70
+        initialized_from_dependency: false
+        encrypted_possible_answer: vSW9C0BiOoEWWUxpBjiycQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

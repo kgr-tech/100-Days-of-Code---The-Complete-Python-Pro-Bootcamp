@@ -1,0 +1,31 @@
+type: edu
+files:
+  - name: break_keyword.py
+    visible: true
+    placeholders:
+      - offset: 377
+        length: 17
+        placeholder_text: "# Add a condition"
+        initial_state:
+          length: 17
+          offset: 377
+        initialized_from_dependency: false
+        encrypted_possible_answer: 97FqTdImOGKdzPeBJMefj/PB/M+RuqzyMY/+EHlfX3U=
+        selected: false
+        status: Unchecked
+      - offset: 403
+        length: 11
+        placeholder_text: "# Exit loop"
+        initial_state:
+          length: 11
+          offset: 403
+        initialized_from_dependency: false
+        encrypted_possible_answer: +rreWeLZ2/PtWdFPxkaAAA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,27 @@
+type: edu
+files:
+  - name: my_module.py
+    visible: true
+    learner_created: false
+  - name: calculator.py
+    visible: true
+    learner_created: false
+  - name: from_import.py
+    visible: true
+    placeholders:
+      - offset: 27
+        length: 35
+        placeholder_text: "# Import hello_world from my_module"
+        initial_state:
+          length: 35
+          offset: 27
+        initialized_from_dependency: false
+        encrypted_possible_answer: vvjBmJ6jEQ+J0Wbt9dZ3p2g1IzyV7ThmhUnEWnXtN/cTIent/YW2DPEMZdsGmIQG
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

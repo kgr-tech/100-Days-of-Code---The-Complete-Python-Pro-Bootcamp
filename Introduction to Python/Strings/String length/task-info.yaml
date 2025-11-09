@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: len_function.py
+    visible: true
+    placeholders:
+      - offset: 117
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 117
+        initialized_from_dependency: false
+        encrypted_possible_answer: qJumey6bN9IADVhJ+0hVmvKgN2ROiI+81XBm0wR6BPc=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

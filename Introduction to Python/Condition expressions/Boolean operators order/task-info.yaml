@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: boolean_order.py
+    visible: true
+    placeholders:
+      - offset: 110
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 110
+        initialized_from_dependency: false
+        encrypted_possible_answer: JG4tRa/rK4NTf1OXfJCEi/eRgL0xPHcsvyHFfG/m0zDT7SMTAVn8895QnbryIdcj60hLdWeqYe54SYfv/RQpFw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

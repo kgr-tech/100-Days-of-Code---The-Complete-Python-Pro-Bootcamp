@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: if_statement.py
+    visible: true
+    placeholders:
+      - offset: 237
+        length: 28
+        placeholder_text: "# Check if 'tasks' is empty."
+        initial_state:
+          length: 28
+          offset: 237
+        initialized_from_dependency: false
+        encrypted_possible_answer: w6kRyzlt0FL405vESXuJry9fxuF58XyqE9BheuTe6h4=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

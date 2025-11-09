@@ -1,0 +1,41 @@
+type: edu
+files:
+  - name: return_keyword.py
+    visible: true
+    placeholders:
+      - offset: 364
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 364
+        initialized_from_dependency: false
+        encrypted_possible_answer: oa+nVSRiKi7L3SNrfCrSCA==
+        selected: false
+        status: Unchecked
+      - offset: 438
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 438
+        initialized_from_dependency: false
+        encrypted_possible_answer: UUz/h4X4hbGpqhxYsJ5QkA==
+        selected: false
+        status: Unchecked
+      - offset: 450
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 450
+        initialized_from_dependency: false
+        encrypted_possible_answer: Y9LEZ7DJb97notPBYfbSMQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

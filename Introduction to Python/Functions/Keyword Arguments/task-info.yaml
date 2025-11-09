@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: keyword_args.py
+    visible: true
+    placeholders:
+      - offset: 232
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 232
+        initialized_from_dependency: false
+        encrypted_possible_answer: Rax/Pt4q7pl+ey9Qum3DWFHXUaOeouvk/cMpW9ESUFBjN8T8MHXxyHalbvYGvA16
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: access_variable.py
+    visible: true
+    placeholders:
+      - offset: 398
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 398
+        initialized_from_dependency: false
+        encrypted_possible_answer: nOGR5BCO9xlinllq4hGrfsyoBfTbiBUcSv3TrVaXbyI=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

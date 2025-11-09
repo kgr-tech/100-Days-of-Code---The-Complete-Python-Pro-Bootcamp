@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: character_escaping.py
+    visible: true
+    placeholders:
+      - offset: 105
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 105
+        initialized_from_dependency: false
+        encrypted_possible_answer: Y6rmg0t3jrwOMa5wkI3OBZOnMSe0MXqDh6JT0Gtgwqxk9eIf3PgpBk4K0JRTI4oY
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1
