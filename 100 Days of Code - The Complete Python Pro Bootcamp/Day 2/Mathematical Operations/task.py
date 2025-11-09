@@ -1,0 +1,12 @@
+"""print("My age: " + str(12))
+print(789+888)
+print(89-56)
+print(7*9)
+print (8.90/9.56)
+print( type(3/7))
+print(type(3//7))
+print(2**3)
+print(type(3 * 3 + 3 / 3 - 3))
+print(type(3 * (3 + 3)/3 -3))
+print(6+4/2-(1*2))"""
+a = float(5.90)/float(9.89)
